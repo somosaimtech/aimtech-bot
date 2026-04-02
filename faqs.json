@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bienvenida",
+    "keywords": ["hola", "buenas", "buenos dias", "hey"],
+    "answer": "👋 ¡Bienvenido a AIMTECH!\n\nSomos especialistas en Inteligencia Artificial para negocios dominicanos.\n\n¿En qué te puedo ayudar?\n\n1️⃣ ¿Qué es AIMTECH?\n2️⃣ ¿Cómo funciona el bot?\n3️⃣ Precios y planes\n4️⃣ Tiempo de entrega\n5️⃣ Hablar con un asesor\n\nEscribe el número o tu pregunta 👇"
+  },
+  {
+    "id": "menu",
+    "keywords": ["menu", "opciones", "ayuda", "info"],
+    "answer": "🤖 *Menú AIMTECH*\n\n1️⃣ ¿Qué es AIMTECH?\n2️⃣ ¿Cómo funciona el bot?\n3️⃣ Precios y planes\n4️⃣ Tiempo de entrega\n5️⃣ Hablar con un asesor\n\nEscribe el número de la opción 👇"
+  },
+  {
+    "id": "quienes",
+    "keywords": ["1", "que es aimtech", "quienes son", "empresa", "que hacen"],
+    "answer": "🏢 *¿Qué es AIMTECH?*\n\nSomos una empresa dominicana especializada en soluciones de Inteligencia Artificial para negocios.\n\n✅ Chatbots WhatsApp 24/7\n✅ IA de voz para llamadas\n✅ Automatización de procesos\n✅ Consultoría IA\n\n🌐 aimtech.com.do\n📱 (809) 519-2814"
+  },
+  {
+    "id": "como-funciona",
+    "keywords": ["2", "como funciona", "como trabaja", "que hace el bot"],
+    "answer": "⚙️ *¿Cómo funciona?*\n\nConectamos un asistente inteligente a tu WhatsApp Business que:\n\n🔹 Responde mensajes al instante 24/7\n🔹 Agenda citas automáticamente\n🔹 Informa precios y servicios\n🔹 Reserva productos o consultas\n🔹 Notifica a tu equipo\n\nTodo sin que nadie del equipo tenga que hacer nada. ¿Quieres una demo?"
+  },
+  {
+    "id": "precios",
+    "keywords": ["3", "precio", "costo", "cuanto vale", "cuanto cuesta", "planes", "cuanto cobran"],
+    "answer": "💰 *Planes AIMTECH*\n\n⚡ *Básico* — Desde $500 USD\nBot con menús y botones · Sin mensualidad\n\n🧠 *Intermedio* — Desde $700 USD\nIA conversacional · +$50/mes\n\n👑 *Premium* — Desde $1,000 USD\nChat + llamadas con voz · +$70/mes\n\n✅ Pago 50/50 — mitad al inicio, mitad al aprobar\n✅ El sistema queda 100% tuyo\n\n¿Cuál plan te interesa?"
+  },
+  {
+    "id": "entrega",
+    "keywords": ["4", "cuando", "cuanto tiempo", "entrega", "dias", "plazo"],
+    "answer": "⏱️ *Tiempo de entrega*\n\nEl sistema está activo en máximo *15 días hábiles*.\nEl plazo típico es 10-12 días.\n\n📅 Cronograma:\nDías 1-3: Levantamiento de info\nDías 4-7: Desarrollo\nDías 8-10: Pruebas\nDías 11-13: Ajustes y capacitación\nDías 14-15: Lanzamiento\n\n¿Quieres empezar esta semana?"
+  },
+  {
+    "id": "asesor",
+    "keywords": ["5", "asesor", "hablar", "contacto", "llamar", "persona", "humano"],
+    "answer": "👨‍💼 *Hablar con un asesor AIMTECH*\n\nCon gusto te atendemos personalmente:\n\n📱 WhatsApp: (809) 519-2814\n✉️ Email: somos.aimtech@gmail.com\n🌐 aimtech.com.do\n📸 Instagram: @somos.aimtech\n\n⏰ Disponibles 24/7\n\n¡Escríbenos y te respondemos al instante!"
+  },
+  {
+    "id": "garantia",
+    "keywords": ["garantia", "riesgo", "seguro", "confianza", "pago"],
+    "answer": "🛡️ *Garantía AIMTECH*\n\n✅ Pagas 50% al iniciar\n✅ El otro 50% SOLO cuando apruebes el resultado\n✅ Si algo no quedó bien, lo ajustamos gratis\n✅ El sistema queda 100% tuyo para siempre\n\n*Cero riesgo para ti.*\n\n¿Tienes alguna duda? Escríbenos 👇"
+  }
+]
